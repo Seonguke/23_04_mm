@@ -1,0 +1,16 @@
+setup.py
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/vision.cpp
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cpu/ROIAlign_cpu.cpp
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cpu/nms_cpu.cpp
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cuda/ROIAlign_cuda.cu
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cuda/ROIPool_cuda.cu
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cuda/SigmoidFocalLoss_cuda.cu
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cuda/deform_conv_cuda.cu
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cuda/deform_conv_kernel_cuda.cu
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cuda/deform_pool_cuda.cu
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cuda/deform_pool_kernel_cuda.cu
+/home/edge/ws_0504/maskrcnn-benchmark/panoptic-reconstruction/lib/csrc/cuda/nms.cu
+extension.egg-info/PKG-INFO
+extension.egg-info/SOURCES.txt
+extension.egg-info/dependency_links.txt
+extension.egg-info/top_level.txt
